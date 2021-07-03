@@ -1,7 +1,7 @@
 # akawo
 
 A new Flutter project.
-[Sample](https://github.com/korafdavid/Akawo-Micro-Savings/blob/main/assets/fonts/images/image2.png)
+(https://github.com/korafdavid/Akawo-Micro-Savings/blob/main/assets/fonts/images/image2.png)
 [sample](assets/images/image2.png)
 [sample](assets/images/image3.png)
 
