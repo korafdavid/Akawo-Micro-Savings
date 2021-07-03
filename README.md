@@ -2,10 +2,12 @@
 ![Screenshot_20210703-082342](https://user-images.githubusercontent.com/78824094/124351388-d6116e80-dbf1-11eb-9534-1aa01be17ee9.png)
 # akawo
 
-A new Flutter project.
-(https://github.com/korafdavid/Akawo-Micro-Savings/blob/main/assets/fonts/images/image2.png)
-[sample](assets/images/image2.png)
-[sample](assets/images/image3.png)
+
+Micro Savings App built with SQFLITE on Flutter!!
+with all sqflite crud operations 
+and a search query!
+Generates sms Alert for uses
+
 
 ## Getting Started
 
@@ -20,6 +22,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Micro Savings App built with SQFLITE on flutter!!
-with all sqflite crud operations 
-and a search query!
