@@ -1,0 +1,58 @@
+name: akawo
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  sqflite: ^1.3.2+3
+  path_provider: any
+  intl: ^0.17.0
+  flutter_sms: ^2.3.1
+  shared_preferences: ^2.0.5
+  font_awesome_flutter: ^9.0.0
+  fluttertoast: ^8.0.6
+  url_launcher: ^6.0.8
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+ 
+ # assets:
+   # - images/
+  #   - images/a_dot_ham.jpeg
+
+  
+  fonts:
+    - family: Tourney
+      fonts:
+      - asset: assets/fonts/Tourney_Condensed-ExtraLightItalic.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+ 
