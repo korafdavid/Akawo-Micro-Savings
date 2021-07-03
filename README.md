@@ -1,6 +1,9 @@
 # akawo
 
 A new Flutter project.
+[Sample](assets/images/image1.png)
+[sample](assets/images/image2.png)
+[sample](assets/images/image3.png)
 
 ## Getting Started
 
